@@ -1,2 +1,2 @@
 #!/bin/bash
-chmodr ugo+x ./ 
+chmod d* ugo+x
